@@ -1,0 +1,4 @@
+measure,n_images,mean_full,mean_roi_crop,mean_difference,spearman_full_vs_crop
+brightness,3260,84.6,85.81,1.22,0.947
+contrast,3260,44.28,41.1,-3.18,0.966
+sharpness,3260,1847.09,2519.21,672.12,0.968

@@ -1,0 +1,4 @@
+setting,low_pct,high_pct,cut_dark,cut_overexposed,cut_low_contrast,cut_blurry,cut_small,n_images,n_flagged,pct_flagged
+strict,5,95,20.3,172.36,8.08,76.71,28.0,3260,496,15.21
+base,10,90,27.94,150.58,11.81,130.67,30.0,3260,1042,31.96
+loose,20,80,40.13,127.41,18.96,261.52,32.0,3260,1879,57.64

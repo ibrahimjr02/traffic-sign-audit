@@ -1,0 +1,10 @@
+class_id,class_name,images,tracks,tracks_with_a_high_tier_image,pct_flagged_images_in_mostly_flagged_tracks
+0,Speed limit (20km/h),210,7,0,54.9
+2,Speed limit (50km/h),500,75,8,56.6
+3,Speed limit (60km/h),500,47,18,72.5
+4,Speed limit (70km/h),500,66,18,74.8
+14,Stop,500,26,1,57.8
+30,Beware of ice/snow,450,15,4,73.0
+40,Roundabout mandatory,360,12,1,57.0
+42,End of no passing by vehicles over 3.5 metric tons,240,8,4,67.6
+all,All selected classes,3260,256,54,66.2

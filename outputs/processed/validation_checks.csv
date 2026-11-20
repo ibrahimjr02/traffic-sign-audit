@@ -1,0 +1,12 @@
+check,rows_affected,action
+Rows in annotation file,39209,all rows kept in the validated table
+Distinct class IDs,43,reported
+Missing or malformed numeric fields,0,excluded
+Width or height not positive,0,excluded
+Invalid class ID,0,excluded
+Image file not found,0,excluded
+Duplicate annotation rows (identical),0,later copies excluded
+Duplicate image paths (later copies),0,excluded
+Invalid or absent ROI,0,kept; ROI measures set to NaN
+Rows usable for analysis,39209,-
+Rows excluded,0,listed in exclusion_log.csv

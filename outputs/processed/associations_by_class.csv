@@ -1,0 +1,9 @@
+class_id,class_name,n,rho_sharp_contrast,rho_sharp_brightness
+0,Speed limit (20km/h),210,0.222,0.322
+2,Speed limit (50km/h),500,0.721,0.666
+3,Speed limit (60km/h),500,0.808,0.812
+4,Speed limit (70km/h),500,0.859,0.868
+14,Stop,500,0.335,0.402
+30,Beware of ice/snow,450,0.517,0.608
+40,Roundabout mandatory,360,0.621,0.59
+42,End of no passing by vehicles over 3.5 metric tons,240,0.89,0.894
