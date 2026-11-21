@@ -4,3 +4,6 @@ data/*
 __pycache__/
 .ipynb_checkpoints/
 independent_check.py
+outputs.zip
+*.pdf
+*.zip
