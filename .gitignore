@@ -1,5 +1,6 @@
 .venv/
-data/
+data/*
+!data/README.md
 __pycache__/
 .ipynb_checkpoints/
 independent_check.py
